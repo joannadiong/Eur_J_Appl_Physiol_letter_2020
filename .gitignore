@@ -1,0 +1,6 @@
+*.png
+*.csv
+
+# Python files
+.idea/
+
